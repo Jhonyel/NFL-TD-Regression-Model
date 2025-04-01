@@ -1,2 +1,2 @@
 # Overview
-Created a linear regression model to predict different quaterback's touchdowns in their next season. Utilized play by play data from past nfl seasons to find correlations in different stats like pass attempts and yards gained, in order to train the statistical model to predict next season's touchdowns.
+Created a linear regression model to predict different quarterbacks' touchdowns in their next season. To train the statistical model for the predictions, the model uses play-by-play data from past nfl seasons to find correlations in stats like pass attempts and yards gained.
